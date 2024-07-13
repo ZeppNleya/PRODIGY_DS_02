@@ -17,11 +17,11 @@ This repository contains an exploratory data analysis (EDA) of the Titanic datas
    - Drop columns or rows if necessary.
 
 2. **Correcting Data Types**:
-   - Ensure that categorical variables are correctly identified.
-   - Convert numerical columns to the correct data types.
+   - Ensured that categorical variables are correctly identified.
+   - Converted numerical columns to the correct data types. For example, I rounded off age to a whole number.
 
 3. **Removing Duplicates**:
-   - Check for and remove duplicate entries.
+   - I checked the dataset for duplicate entries.
 
 ## Visualizations and Their Benefits
 
